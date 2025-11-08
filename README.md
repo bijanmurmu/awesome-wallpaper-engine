@@ -12,7 +12,7 @@ Welcome to the collection of wallpapers for Wallpaper Engine! Browse the wallpap
 | <img src="images/wp4.jpeg" width="100" height="100"/> | **Ghost of Tsushima Spring** | Game | ⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2171219385) |
 | <img src="images/wp5.gif" width="100" height="100"/> | **Pixels** | Pixel Art | ⭐⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3122339805) |
 | <img src="images/wp6.gif" width="100" height="100"/> | **Dark Magic** | Fantasy | ⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3152793212) |
-| img src="images/wp7.jpeg" width="100" height="100/> | **是扶苏吖-绫波丽** | Anime | ⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3203900079) |
+| img src="images/wp7.jpeg" width="100" height="100"/> | **是扶苏吖-绫波丽** | Anime | ⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3203900079) |
 ---
 
 ## How to Use:
