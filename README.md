@@ -17,6 +17,10 @@ Welcome to the collection of wallpapers for Wallpaper Engine! Browse the wallpap
 | **9** | <img src="images/wp9.gif" width="100" height="100"/> | **Meteors at Dawn [4K]** | Landscape | ⭐⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3413921910) |
 | **10** | <img src="images/wp10.gif" width="100" height="100"/> | **Initial D AE86** | Vehicle | ⭐⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3427522122) |
 | **11** | <img src="images/wp11.gif" width="100" height="100"/> | **Lofi Cafe** | Landscape | ⭐⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2370927443) |
+| **12** | <img src="images/wp12.gif" width="100" height="100"/> | **cyberpunk edgerunners** | Anime | ⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2885492021) |
+| **13** | <img src="images/wp13.gif" width="100" height="100"/> | **Boba Stop** | Landscape | ⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2981110213) |
+| **14** | <img src="images/wp14.jpg" width="100" height="100"/> | **Forgotten Lands 21:9 w lofi** | Fantasy | ⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2751564702) |
+| **15** | <img src="images/wp15.jpg" width="100" height="100"/> | **CS:GO [4K]** | Game | ⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2732970377) |
 ---
 
 ## How to Use:
