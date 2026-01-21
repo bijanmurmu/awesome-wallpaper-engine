@@ -14,7 +14,7 @@ Welcome to the collection of wallpapers for Wallpaper Engine! Browse the wallpap
 | **6** | <img src="images/wp6.gif" width="100" height="100"/> | **Dark Magic** | Fantasy | ⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3152793212) |
 | **7** | <img src="images/wp7.jpeg" width="100" height="100"/> | **是扶苏吖-绫波丽** | Anime | ⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3203900079) |
 | **8** | <img src="images/wp8.jpg" width="100" height="100"/> | **Night City Daily Life [+Sounds]** | Cyberpunk | ⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2241829731) |
-| **9** | <img src="images/wp9.gif" width="100" height="100"/> | **Meteors at Dawn [4K]** | Landscape | ⭐⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3413921910) |
+| **9** | <img src="images/wp9.gif" width="75" height="75"/> | **Meteors at Dawn [4K]** | Landscape | ⭐⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3413921910) |
 | **10** | <img src="images/wp10.gif" width="50" height="50"/> | **Initial D AE86** | Vehicle | ⭐⭐⭐⭐⭐ | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3427522122) |
 ---
 
