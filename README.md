@@ -21,6 +21,7 @@ Welcome to the collection of wallpapers for Wallpaper Engine! Browse the wallpap
 | **13** | <img src="images/wp13.gif" width="100" height="100"/> | **Boba Stop** | Landscape |  | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2981110213) |
 | **14** | <img src="images/wp14.jpg" width="100" height="100"/> | **Forgotten Lands 21:9 w lofi** | Fantasy |  | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2751564702) |
 | **15** | <img src="images/wp15.jpg" width="100" height="100"/> | **CS:GO [4K]** | Game | **✓** | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=2732970377) |
+| **16** | <img src="images/wp16.gif" width="100" height="100"/> | **Alone. and Sad.** | Anime | **✓** | [Subscribe](https://steamcommunity.com/sharedfiles/filedetails/?id=3385540784) |
 ---
 
 ## How to Use:
